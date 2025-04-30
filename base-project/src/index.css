@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.zigzag {
+  background: linear-gradient(135deg, #ffffff 25%, transparent 25%) -10px 0,
+    linear-gradient(225deg, #ffffff 25%, transparent 25%) -10px 0,
+    linear-gradient(315deg, #ffffff 25%, transparent 25%),
+    linear-gradient(45deg, #ffffff 25%, transparent 25%);
+  background-size: 20px 20px;
+  background-color: transparent;
+}
