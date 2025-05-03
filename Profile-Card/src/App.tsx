@@ -1,5 +1,5 @@
 function App() {
-  return <></>;
+  return <>Hello Profile Card</>;
 }
 
 export default App;
