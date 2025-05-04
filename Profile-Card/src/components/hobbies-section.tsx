@@ -16,7 +16,9 @@ export const Hobbies = () => {
   return (
     <div
       className={`flex flex-col gap-[1rem] ${
-        displayHobbies ? "newsm:my-0 sm:my-[1rem]" : "newsm:my-[1rem] sm:my-[2rem]"
+        displayHobbies
+          ? "newsm:my-0 sm:my-[1rem]"
+          : "newsm:my-[1rem] sm:my-[2rem]"
       }`}
     >
       {/* Following is the toggle button */}
