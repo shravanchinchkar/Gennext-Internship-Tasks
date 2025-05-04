@@ -1,6 +1,5 @@
 function App() {
-  return <div>
-    Hello
+  return <div className="w-screen h-screen bg-black">
   </div>
 }
 
