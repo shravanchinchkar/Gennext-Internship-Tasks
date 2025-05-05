@@ -7,3 +7,6 @@
 
 `Output 3:`
 ![Screenshot](./public/assets/images/quiz-output-3.png)
+
+## Things to be implemented
+- [ ] To add Design Responsiveness 
